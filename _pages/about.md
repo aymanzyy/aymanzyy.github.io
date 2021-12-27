@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is a site that you can use to get to know me and some of my interests. I am currently a PhD student. 
+This is a site that you can use to get to know me and some of my interests. I am currently a PhD student at Duke.edu. 
 
 A data-driven personal website
 ======
