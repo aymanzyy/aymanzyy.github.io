@@ -9,7 +9,6 @@ redirect_from:
 ---
 
 This is a site that you can use to get to know me and some of my interests. I am currently a PhD student at Duke University, studying computational fluid dynamics.
-=======
 
 A data-driven personal website
 ======
