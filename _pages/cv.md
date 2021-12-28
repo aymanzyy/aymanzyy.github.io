@@ -12,6 +12,8 @@ redirect_from:
 Education
 ======
 * B.S. in Biomedical Engineering, University of Arkansas, 2021
+  * Minor in Computer Science
+  * Graduated Magna Cum Laude 
 
 Work experience
 ======
