@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant"
 collection: teaching
-type: "Undergraduate course"
+type: "Biomechanics"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "University of Arkansas, Biomedical Engineering"
+date: Fall 2019
+location: "Fayetteville, Arkansas"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Senior teaching assistant for the fall biomechanics course at the University of Arkansas.
+Duties included handling weekly office hours, adminstering & grading assignments, quizzes, and exams. 
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
