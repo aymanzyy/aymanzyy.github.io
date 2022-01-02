@@ -10,5 +10,5 @@ Heirloom Coffee Shop
   * Great atmosphere and design
   * Staff was friendly and had great food suggestions
   * 8/10 
-
+  * ![](/images/profile.png)
 
