@@ -23,9 +23,9 @@ Work experience
   * Supervisor: Professor Elsaadany
 
 * Fall 2020: Product Manager
-  * Forgot the Name of Company
-  * Duties included: Leading development on COVID-19 detecting mask
-  * Supervisor: Alex French
+  * FloraBot
+  * Duties included: Leading development on COVID-19 detecting mask, working with engineers on fabrication process, creating initial designs of prototypes, collaborating with higher level leaders to ensure validity of project direction/outlines. 
+  * Supervisor: Alex Frost
   
 Skills
 ======
