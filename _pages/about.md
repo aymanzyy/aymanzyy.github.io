@@ -13,3 +13,8 @@ Welcome! I am currently a PhD student at Duke University studying computational 
 
 If you have any questions for me, you can contact me via email or through my LinkedIn page. Any & all NC or RTP coffee spot suggestions are much appreciated. 
 
+
+
+<div class='jekyll-twitter-plugin' align="center">
+    {% twitter https://twitter.com/anaik96 maxwidth=500 limit=5 %}
+</div>
