@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ayman Yousef / Personal Site"
+title                    : "Ayman Yousef"
 title_separator          : "-"
 name                     : &name "Ayman"
 description              : &description "This is a site that'll teach you all about me as a person and professional"
@@ -112,7 +112,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/AymanYousefBME"
+  twitter          : "AymanYousefBME"
   vine             :
   weibo            :
   xing             :
