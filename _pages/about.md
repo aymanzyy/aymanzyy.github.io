@@ -13,6 +13,8 @@ Welcome! I am currently a PhD student at Duke University studying computational 
 
 If you have any questions for me, you can contact me via email or through my LinkedIn page. Any & all NC or RTP coffee spot suggestions are much appreciated. 
 
+An example of pulling from a timeline: {% twitter https://twitter.com/jekyllrb maxwidth=500 limit=3 %}
+
 
 
 
