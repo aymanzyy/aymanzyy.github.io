@@ -1,5 +1,6 @@
 ---
 permalink: /
+layout: new
 title: "About me"
 excerpt: "About me"
 author_profile: true
