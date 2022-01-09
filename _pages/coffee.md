@@ -30,3 +30,12 @@ The Oak House
   * Wasn’t getting a strong taste of pumpkin like I expected, more cinnamon than anything else. Location was really nice and cozy in Downtown Durham, which makes it the perfect fall/winter study spot. 
   * 7/10
   * ![](/images/oak.jpg)
+
+42 & Lawrence 
+======
+* Located in Raleigh, NC
+  * What I ordered: Peppermint Mocha
+  * Very cool looking bar, but limited seating/space
+  * Very sweet drink and good hints of peppermint, but had a burnt coffee smell that through me off throughout. 
+  * 7/10
+  * ![](/images/IMG_2205.jpeg)
