@@ -6,5 +6,4 @@ image: images/landing.jpg
 nav-menu: true
 ---
 
-<!-- Main -->
-<div id="main">
+yurr
