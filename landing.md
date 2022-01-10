@@ -14,9 +14,9 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>In Search Of The Best Mocha In Town</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p>Exploring coffee spots/cafes in the RTP area. Let me know if you have any suggestions for places/dishes to try</p>
 	</div>
 </section>
 
@@ -29,7 +29,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>Heirloom Coffee Shop</h3>
 				</header>
 				<p>* Located in Raleigh, NC
   * What I ordered: Brown Sugar Five Spice Latte
@@ -49,7 +49,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3>Percantile & Creamery</h3>
 				</header>
 				<p>* Located in Charlotte, NC
   * What I ordered: White Chocolate Raspberry Mocha
@@ -69,7 +69,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Sed nunc ligula</h3>
+					<h3>The Oak House at Durham</h3>
 				</header>
 				<p>* Located in Durham, NC
 				  * What I ordered: Pumpkin Spice Latte
