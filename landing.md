@@ -5,7 +5,6 @@ title: "Coffee"
 layout: landing
 description: 'Personal Coffee Blog?'
 image: images/IMG_2205.jpeg
-nav-menu: true
 ---
 <!-- Main -->
 <div id="main">
