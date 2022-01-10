@@ -23,14 +23,17 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link images/oak.jpg %}" alt="" data-position="center center" />
+			<img src="{% link images/heirloom.jpeg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>Orci maecenas</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>* What I ordered: Brown Sugar Five Spice Latte
+				  * Great atmosphere and design
+				  * Barista recommended drink (touted as having a more complex taste compared to your average cinnamon-y lattes)  that was pretty nice to sip on slowly. Should’ve got more ice on it and didn’t always get the five spices but overall a really nice different kind of drink. 
+				  * 8/10 .</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
