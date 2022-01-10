@@ -1,10 +1,10 @@
 ---
 author_profile: true
 permalink: /landing/
-title: "Landing"
+title: "Coffee"
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
-image: images/landing.jpg
+description: 'Personal Coffee Blog?'
+image: images/IMG_2205.jpeg
 nav-menu: true
 ---
 <!-- Main -->
