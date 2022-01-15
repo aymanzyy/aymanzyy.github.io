@@ -12,7 +12,7 @@ intro:
   - excerpt: 'Looking for the best coffee in town'
 
 feature_row2:
-  - image_path: /images/oak.jpg
+  - image_path: ![](/images/heirloom.jpeg)
     alt: "Oak"
     title: "Oak"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
