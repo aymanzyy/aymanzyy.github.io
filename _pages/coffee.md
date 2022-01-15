@@ -5,10 +5,9 @@ title: "Coffee"
 layout:  splash
 classes: 'wide'
 header:
-  overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /images/unsplash-image-1.jpg
-excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+excerpt: 
 intro: 
   - excerpt: 'Looking for the best coffee in town'
 feature_row:
