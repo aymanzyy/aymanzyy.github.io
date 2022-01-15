@@ -6,7 +6,7 @@ layout:  splash
 classes: 'wide'
 header:
   overlay_filter: "0.5"
-  overlay_image: /images/unsplash-image-1.jpg
+  overlay_image: /images/IMG_2205.jpeg
 excerpt: 
 intro: 
   - excerpt: 'Looking for the best coffee in town'
