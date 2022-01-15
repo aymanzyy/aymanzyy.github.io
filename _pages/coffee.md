@@ -6,26 +6,35 @@ layout:  splash
 classes: 'wide'
 header:
   overlay_filter: "0.5"
-  overlay_image: /images/IMG_2205.jpeg
+  overlay_image: /images/perc.jpg
 excerpt: 
 intro: 
   - excerpt: 'Looking for the best coffee in town'
-feature_row:
-  - image_path: /images/heirloom.jpg
-    alt: "Heirloom Coffee"
-    title: "Heirloom"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /images/perc.jpg
-    image_caption: "Image courtesy of myself"
-    alt: "placeholder image 2"
-    title: "Perc"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
+
+feature_row2:
+  - image_path: /images/oak.jpg
+    alt: "Oak"
+    title: "Oak"
+    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
+    url: "https://www.heirloombrewshop.com"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/oak.jpg
-    title: "Oak"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+feature_row3:
+  - image_path: /images/perc.jpg
+    alt: "placeholder image 2"
+    title: "Placeholder Image Right Aligned"
+    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
+    url: "https://www.heirloombrewshop.com"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+feature_row4:
+  - image_path: /images/heirloom.jpeg
+    alt: "placeholder image 2"
+    title: "Placeholder Image Center Aligned"
+    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
+    url: "https://www.heirloombrewshop.com"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
@@ -37,7 +46,6 @@ feature_row:
 {% include feature_row id="feature_row3" type="right" %}
 
 {% include feature_row id="feature_row4" type="center" %}
-
 
 ======
 * Located in Raleigh, NC
