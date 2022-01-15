@@ -4,8 +4,10 @@ permalink: /coffee/
 title: "Coffee"
 layout: 'single'
 classes: 'wide'
-image:
-  feature: images/heirloom.jpeg
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/heirloom.jpeg
 ---
 
 Heirloom Coffee Shop
