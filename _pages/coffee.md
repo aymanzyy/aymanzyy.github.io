@@ -4,6 +4,8 @@ permalink: /coffee/
 title: "Coffee"
 layout: 'single'
 classes: 'wide'
+image:
+  feature: images/heirloom.jpeg
 ---
 
 Heirloom Coffee Shop
