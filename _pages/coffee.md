@@ -2,15 +2,33 @@
 author_profile: true
 permalink: /coffee/
 title: "Coffee"
-layout: 'splash'
+layout:  splash
 classes: 'wide'
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/heirloom.jpeg
+  overlay_image: /images/unsplash-image-1.jpg
+excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+intro: 
+  - excerpt: 'Looking for the best coffee in town'
+feature_row:
+  - image_path: /images/heirloom.jpg
+    alt: "Heirloom Coffee"
+    title: "Heirloom"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: /images/perc.jpg
+    image_caption: "Image courtesy of myself"
+    alt: "placeholder image 2"
+    title: "Perc"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/oak.jpg
+    title: "Oak"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
 
-Heirloom Coffee Shop
 ======
 * Located in Raleigh, NC
   * What I ordered: Brown Sugar Five Spice Latte
