@@ -2,7 +2,7 @@
 author_profile: true
 permalink: /coffee/
 title: "Coffee"
-layout: 'single'
+layout: 'splash'
 classes: 'wide'
 header:
   overlay_color: "#000"
