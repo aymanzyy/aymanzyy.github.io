@@ -2,6 +2,7 @@
 author_profile: true
 permalink: /coffee/
 title: "Coffee"
+layout: 'single'
 ---
 
 Heirloom Coffee Shop
