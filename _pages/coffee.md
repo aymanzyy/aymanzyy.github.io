@@ -4,7 +4,7 @@ title: "Coffee"
 layout: splash
 header:
   overlay_color: "#4f3222"
-  overlay_filter: "0.5"
+  overlay_filter: "0.1"
   overlay_image: assets/images/coffee.jpg
 excerpt: "Something random here"
 intro: 
