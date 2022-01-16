@@ -6,7 +6,7 @@ layout:  splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /images/perc.jpg
+  overlay_image: /images/coffee.jpeg
 excerpt: "Something random here"
 intro: 
   - excerpt: 'Looking for the best coffee in town'
