@@ -3,7 +3,7 @@ permalink: /coffee/
 title: "Coffee"
 layout: splash
 header:
-  overlay_color: "#000"
+  overlay_color: "#4f3222"
   overlay_filter: "0.2"
   overlay_image: assets/images/unsplash-gallery-image-1-th.jpg
 excerpt: "Something random here"
