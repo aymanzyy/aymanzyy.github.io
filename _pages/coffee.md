@@ -80,6 +80,7 @@ gallery:
 {% include feature_row %}
 
 
+Heirloom Brewshop
 ======
 * Located in Raleigh, NC
   * What I ordered: Brown Sugar Five Spice Latte
