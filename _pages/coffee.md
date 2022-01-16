@@ -3,11 +3,11 @@ author_profile: true
 permalink: /coffee/
 title: "Coffee"
 layout:  splash
-classes: 'wide'
 header:
+  overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /images/perc.jpg
-excerpt: 
+excerpt: "Something random here"
 intro: 
   - excerpt: 'Looking for the best coffee in town'
 
