@@ -4,7 +4,7 @@
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
-
+minimal_mistakes_skin    : "dirt"
 # Site Settings
 locale                   : "en-US"
 title                    : "Ayman Yousef"
@@ -14,7 +14,6 @@ description              : &description "This is a site that'll teach you all ab
 url                      : https://aymanzyy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aymanzyy/aymanzyy.github.io"
-theme                    : midnight
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
