@@ -43,6 +43,7 @@ feature_row3:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
+    
 feature_row4:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
@@ -51,6 +52,21 @@ feature_row4:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
+    
+gallery:
+  - url: /assets/images/unsplash-gallery-image-1.jpg
+    image_path: /assets/images/unsplash-gallery-image-1-th.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: /assets/images/unsplash-gallery-image-2.jpg
+    image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"
+  - url: /assets/images/unsplash-gallery-image-3.jpg
+    image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+    
 ---
 
 {% include feature_row id="intro" type="center" %}
@@ -65,19 +81,6 @@ feature_row4:
 {% include feature_row id="feature_row4" type="center" %}
 
 
-gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: /assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
-    title: "Image 3 title caption"
 
 ======
 * Located in Raleigh, NC
