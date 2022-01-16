@@ -4,8 +4,8 @@ title: "Coffee"
 layout: splash
 header:
   overlay_color: "#4f3222"
-  overlay_filter: "0.2"
-  overlay_image: assets/images/unsplash-gallery-image-1-th.jpg
+  overlay_filter: "0.5"
+  overlay_image: assets/images/coffee.jpg
 excerpt: "Something random here"
 intro: 
   - excerpt: 'Looking for the best coffee in town'
