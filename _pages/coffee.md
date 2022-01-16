@@ -55,6 +55,8 @@ feature_row4:
 
 {% include feature_row id="intro" type="center" %}
 
+{% include figure image_path="/assets/images/unsplash-image-2-th.jpg" alt="this is a placeholder image" caption="This is a figure caption." %}
+
 {% include feature_row %}
 
 {% include feature_row id="feature_row2" type="left" %}
