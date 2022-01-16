@@ -13,7 +13,6 @@ intro:
 
 feature_row2:
   - image_path: ![](/images/heirloom.jpeg)
-    alt: "Oak"
     title: "Oak"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
     url: "https://www.heirloombrewshop.com"
@@ -21,7 +20,6 @@ feature_row2:
     btn_class: "btn--primary"
 feature_row3:
   - image_path: /images/perc.jpg
-    alt: "placeholder image 2"
     title: "Placeholder Image Right Aligned"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
     url: "https://www.heirloombrewshop.com"
@@ -29,7 +27,6 @@ feature_row3:
     btn_class: "btn--primary"
 feature_row4:
   - image_path: /images/heirloom.jpeg
-    alt: "placeholder image 2"
     title: "Placeholder Image Center Aligned"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
     url: "https://www.heirloombrewshop.com"
