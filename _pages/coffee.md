@@ -5,7 +5,7 @@ layout: splash
 header:
   overlay_color: "#4f3222"
   overlay_filter: "0.1"
-  overlay_image: assets/images/coffee.jpg
+  overlay_image: assets/images/unsplash-gallery-image-1-th.jpg
 
 feature_row:
   - image_path: /images/IMG_2215.jpg
