@@ -1,12 +1,11 @@
 ---
 permalink: /coffee/
-title: "Coffee"
+title: "Coffee Spots"
 layout: splash
 header:
   overlay_color: "#4f3222"
   overlay_filter: "0.1"
   overlay_image: assets/images/coffee.jpg
-excerpt: "Something random here"
 intro: 
   - excerpt: 'Looking for the best coffee in town'
 
