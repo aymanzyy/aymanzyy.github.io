@@ -8,7 +8,7 @@ header:
   overlay_image: assets/images/coffee.jpg
 
 feature_row:
-  - image_path: /images/IMG_2217.HEIC
+  - image_path: /images/IMG_2215.jpg
     alt: "Fount Coffee & Kitchen"
     title: "Fount Coffee & Kitchen"
     excerpt: "Located in Morrisville, Fount offers exceptional coffee with an a modern, cozy design"
@@ -83,8 +83,8 @@ Fount Coffee + Kitchen
   * Limited seating, but possibly do largely in part to snow day before causing more people to go out
   * Drink was bit too sweet but the actual espresso underneath was very smooth 
   * 8/10
-  * ![](/images/IMG_2217.HEIC)
-  * ![](/images/IMG_2215.HEIC)
+  * ![](/images/IMG_2217.jpg)
+  * ![](/images/IMG_2215.jpg)
 
 
 
