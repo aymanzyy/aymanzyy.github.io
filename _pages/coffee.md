@@ -5,7 +5,7 @@ layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.9"
-  overlay_image: assets/images/coffee
+  overlay_image: assets/images/blake-th.jpg
 
 feature_row:
   - image_path: /images/IMG_2215.jpg
