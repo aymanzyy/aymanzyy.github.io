@@ -86,6 +86,8 @@ Heirloom Brewshop
   * ![](/images/heirloom.jpeg)
 
 
+---
+
 
 The Percantile & Creamery
 ======
@@ -96,6 +98,9 @@ The Percantile & Creamery
   *  10/10
   *  ![](/images/perc.jpg)
 
+---
+
+
 The Oak House
 ======
 * Located in Durham, NC
@@ -105,6 +110,8 @@ The Oak House
   * 7/10
   * ![](/images/oak.jpg)
 
+---
+
 42 & Lawrence 
 ======
 * Located in Raleigh, NC
@@ -113,3 +120,5 @@ The Oak House
   * Very sweet drink and good hints of peppermint, but had a burnt coffee smell that through me off throughout. 
   * 7/10
   * ![](/images/IMG_2205.jpeg)
+
+---
