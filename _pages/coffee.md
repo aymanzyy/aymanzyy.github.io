@@ -4,7 +4,7 @@ title: "Coffee Spots"
 layout: splash
 header:
   overlay_color: "#000"
-  overlay_filter: "0.9"
+  overlay_filter: "0.5"
   overlay_image: assets/images/blake-th.jpg
 
 feature_row:
