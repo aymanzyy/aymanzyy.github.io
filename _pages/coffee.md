@@ -8,11 +8,11 @@ header:
   overlay_image: assets/images/coffee.jpg
 
 feature_row:
-  - image_path: /images/oak.jpg
-    alt: "The Oakhouse in Durham"
-    title: "Oak House"
-    excerpt: "Located in Durham, this place presents a great atmosphere"
-    url: "https://oakhousedurham.com"
+  - image_path: /images/IMG_2217.HEIC
+    alt: "Fount Coffee & Kitchen"
+    title: "Fount Coffee & Kitchen"
+    excerpt: "Located in Morrisville, Fount offers exceptional coffee with an a modern, cozy design"
+    url: "https://fountcoffee.com"
     btn_label: "Check It Out"
     btn_class: "btn--primary"
   - image_path: /images/heirloom.jpeg
@@ -75,6 +75,29 @@ gallery:
 
 {% include feature_row %}
 
+Fount Coffee + Kitchen
+=====
+* Located in Morrisville, NC
+  * What I ordered: Salted Caramel Latte
+  * Design was one of the best I've seen in a coffee shop, with a 3-storied bench as the waiting area for to-go orders to boot
+  * Limited seating, but possibly do largely in part to snow day before causing more people to go out
+  * Drink was bit too sweet but the actual espresso underneath was very smooth 
+  * 8/10
+  * ![](/images/IMG_2217.HEIC)
+  * ![](/images/IMG_2215.HEIC)
+
+
+
+42 & Lawrence 
+======
+* Located in Raleigh, NC
+  * What I ordered: Peppermint Mocha
+  * Very cool looking bar, but limited seating/space
+  * Very sweet drink and good hints of peppermint, but had a burnt coffee smell that through me off throughout. 
+  * 7/10
+  * ![](/images/IMG_2205.jpeg)
+
+---
 
 Heirloom Brewshop
 ======
@@ -110,15 +133,4 @@ The Oak House
   * 7/10
   * ![](/images/oak.jpg)
 
----
 
-42 & Lawrence 
-======
-* Located in Raleigh, NC
-  * What I ordered: Peppermint Mocha
-  * Very cool looking bar, but limited seating/space
-  * Very sweet drink and good hints of peppermint, but had a burnt coffee smell that through me off throughout. 
-  * 7/10
-  * ![](/images/IMG_2205.jpeg)
-
----
