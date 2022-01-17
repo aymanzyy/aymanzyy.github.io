@@ -4,7 +4,7 @@ title: "Coffee Spots"
 layout: splash
 header:
   overlay_color: "#000"
-  overlay_filter: "0.0"
+  overlay_filter: "0.9"
   overlay_image: assets/images/coffee
 
 feature_row:
