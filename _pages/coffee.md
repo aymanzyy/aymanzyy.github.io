@@ -75,7 +75,7 @@ gallery:
 
 {% include feature_row %}
 
----
+
 Heirloom Brewshop
 ======
 * Located in Raleigh, NC
@@ -85,7 +85,7 @@ Heirloom Brewshop
   * 8/10 
   * ![](/images/heirloom.jpeg)
 
----
+
 
 The Percantile & Creamery
 ======
