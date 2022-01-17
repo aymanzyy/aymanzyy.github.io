@@ -6,9 +6,6 @@ header:
   overlay_color: "#4f3222"
   overlay_filter: "0.1"
   overlay_image: assets/images/coffee.jpg
-intro: 
-  - excerpt: 'Looking for the best coffee in town'
-
 
 feature_row:
   - image_path: /images/oak.jpg
@@ -78,7 +75,7 @@ gallery:
 
 {% include feature_row %}
 
-
+---
 Heirloom Brewshop
 ======
 * Located in Raleigh, NC
@@ -87,6 +84,8 @@ Heirloom Brewshop
   * Barista recommended drink (touted as having a more complex taste compared to your average cinnamon-y lattes)  that was pretty nice to sip on slowly. Should’ve     got more ice on it and didn’t always get the five spices but overall a really nice different kind of drink. 
   * 8/10 
   * ![](/images/heirloom.jpeg)
+
+---
 
 The Percantile & Creamery
 ======
