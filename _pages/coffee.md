@@ -8,6 +8,12 @@ header:
   overlay_image: assets/images/blake-th.jpg
 
 feature_row:
+  - image_path: /images/perennial.jpg
+    title: "Perennial Cafe"
+    excerpt: "Located in Chapel Hill, it boasts charming ambiance."
+    url: "https://www.perennial.cafe"
+    btn_label: "Check It out"
+    btn_class: "btn--primary"
   - image_path: /images/IMG_2215.jpg
     alt: "Fount Coffee & Kitchen"
     title: "Fount Coffee & Kitchen"
@@ -22,12 +28,7 @@ feature_row:
     url: "https://www.heirloombrewshop.com"
     btn_label: "Check It out"
     btn_class: "btn--primary"
-  - image_path: /images/IMG_2205.jpeg
-    title: "42 & Lawrence"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "https://www.42lawrence.com"
-    btn_label: "Check It out"
-    btn_class: "btn--primary"
+  
 feature_row2:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
@@ -71,6 +72,16 @@ gallery:
 ---
 
 {% include feature_row id="intro" type="center" %}
+
+Perennial Cafe 
+=====
+* Located in Chapel Hill, NC
+  * What I ordered: Iced Mocha
+  * Comforting due in large part to how small it is, Perennial is your classic downtown coffee shop
+  * Not much seating and the drinks were a lot smaller than expected, even though price as about average
+  * Drink wasn't very sweet but the coffee itself really shone because of this
+  * 6.5/10
+  * ![](/images/perennial.jpg)
 
 
 {% include feature_row %}
