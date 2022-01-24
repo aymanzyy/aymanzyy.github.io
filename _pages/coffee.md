@@ -73,6 +73,8 @@ gallery:
 
 {% include feature_row id="intro" type="center" %}
 
+{% include feature_row %}
+
 Perennial Cafe 
 =====
 * Located in Chapel Hill, NC
@@ -84,7 +86,7 @@ Perennial Cafe
   * ![](/images/perennial.jpg)
 
 
-{% include feature_row %}
+
 
 Fount Coffee + Kitchen
 =====
