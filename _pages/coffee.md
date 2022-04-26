@@ -8,7 +8,7 @@ header:
   overlay_image: assets/images/blake-th.jpg
 
 feature_row:
-  - image_path: /images/IMG_2247.HEIC
+  - image_path: /images/IMG_2247.jpg
     alt: "Iris Coffee Lab"
     title: "Iris Coffee Lab"
     excerpt: "Funky interior, amazing staff, and great coffee."
@@ -75,6 +75,17 @@ gallery:
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
+
+Iris Coffee Lab 
+=====
+* Located in Raleigh, NC
+  * What I ordered: Iced Cherry Marzipan Latte
+  * The staff is the best I've ever come across. Everyone who works here is the bomb
+  * Seating is readily available and the art feels very modern and welcoming. Arthouse vibe.
+  * Drink was sweet, nutty, and most definitely the most unique coffee I've ever had. Bit small is all
+  * 8/10
+  * ![](/images/IMG_2247.jpg)
+
 
 Perennial Cafe 
 =====
