@@ -8,6 +8,13 @@ header:
   overlay_image: assets/images/blake-th.jpg
 
 feature_row:
+  - image_path: /images/IMG_2247.HEIC
+    alt: "Iris Coffee Lab"
+    title: "Iris Coffee Lab"
+    excerpt: "Funky interior, amazing staff, and great coffee."
+    url: "https://www.iriscoffeelab.com"
+    btn_label: "Check It out"
+    btn_class: "btn--primary"
   - image_path: /images/perennial.jpg
     title: "Perennial Cafe"
     excerpt: "Located in Chapel Hill, it boasts charming ambiance."
@@ -21,13 +28,7 @@ feature_row:
     url: "https://fountcoffee.com"
     btn_label: "Check It Out"
     btn_class: "btn--primary"
-  - image_path: /images/heirloom.jpeg
-    alt: "Heirloom Brewshop"
-    title: "Heirloom Brewshop"
-    excerpt: "Wonderful design, great menu, and great people."
-    url: "https://www.heirloombrewshop.com"
-    btn_label: "Check It out"
-    btn_class: "btn--primary"
+
   
 feature_row2:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
