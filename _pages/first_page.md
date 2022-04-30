@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-# HYOHOHE
+<center>HYOHOHE</center>
 
 ![](/images/IMG_2247.jpg)
 
