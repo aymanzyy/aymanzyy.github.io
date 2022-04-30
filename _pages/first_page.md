@@ -3,15 +3,14 @@ permalink: /
 title: "About me"
 excerpt: "About me"
 author_profile: true
-image: assets/images/blake-th.jpg
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-<center>HYOHOHE</center>
+<center><b>AYMAN YOUSEF</b></center>
 
-![](/images/IMG_2247.jpg)
+![](/images/IMG_1785.jpeg)
 
 This is a site that you can use to get to know me and some of my interests. I am currently a PhD student at Duke University, studying computational fluid dynamics.
 Welcome! I am currently a PhD student at Duke University studying computational fluid dynamics. I earned my a Bachelor's of Science in Biomedical Engineering at [Univeristy *of* Arkansas *at* Fayetteville](https://www.uark.edu).
