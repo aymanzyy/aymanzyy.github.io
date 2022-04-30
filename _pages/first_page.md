@@ -11,6 +11,8 @@ redirect_from:
 
 # HYOHOHE
 
+![](/images/IMG_2247.jpg)
+
 This is a site that you can use to get to know me and some of my interests. I am currently a PhD student at Duke University, studying computational fluid dynamics.
 Welcome! I am currently a PhD student at Duke University studying computational fluid dynamics. I earned my a Bachelor's of Science in Biomedical Engineering at [Univeristy *of* Arkansas *at* Fayetteville](https://www.uark.edu).
 
