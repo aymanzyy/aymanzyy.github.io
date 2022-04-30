@@ -1,8 +1,12 @@
 ---
-permalink: /landing2/
-title: "Coffee Spots"
-layout: splash
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: assets/images/blake-th.jpg
+permalink: /
+title: "About me"
+excerpt: "About me"
+author_profile: true
+image: assets/images/blake-th.jpg
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+HYOHOHE
