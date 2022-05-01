@@ -1,5 +1,6 @@
 ---
 author_profile: true
+permalink: /landing/
 title: "Pictures"
 layout: landing
 description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
