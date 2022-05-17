@@ -6,6 +6,8 @@ description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. temp
 image: images/landing.jpg
 nav-menu: true
 ---
+![](/images/IMG_2396.jpeg)
+![](/images/IMG_2397.jpeg)
 ![](/images/IMG_2355.jpg)
 ![](/images/IMG_2359.jpg)
 ![](/images/IMG_2247.jpg)
