@@ -8,17 +8,18 @@ header:
   overlay_image: assets/images/blake-th.jpg
 
 feature_row:
+  - image_path: /images/IMG_2396.jpg
+    alt: "Mylo's Coffee"
+    title: "Mylo's Coffee"
+    excerpt: "Quiet and cozy location, great interior, experimental coffee."
+    url: "https://www.mylocoffee.com"
+    btn_label: "Check It out"
+    btn_class: "btn--primary"
   - image_path: /images/IMG_2247.jpg
     alt: "Iris Coffee Lab"
     title: "Iris Coffee Lab"
     excerpt: "Funky interior, amazing staff, and great coffee."
     url: "https://www.iriscoffeelab.com"
-    btn_label: "Check It out"
-    btn_class: "btn--primary"
-  - image_path: /images/perennial.jpg
-    title: "Perennial Cafe"
-    excerpt: "Located in Chapel Hill, it boasts charming ambiance."
-    url: "https://www.perennial.cafe"
     btn_label: "Check It out"
     btn_class: "btn--primary"
   - image_path: /images/IMG_2215.jpg
@@ -75,6 +76,17 @@ gallery:
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
+
+Mylo's Coffee
+=====
+* Located in Little Rock Arkansas
+  * What I ordered: April Showers Iced Latte
+  * Staff is fairly serious but nice enough. Very cordial when it comes to serving customers
+  * Seating isn't readily available but comes with a great view. Might be the coziest place I've ever been to. 
+  * Drink was sweet and light, making the most of the raspberry syrup without having it take over.
+  * 8/10
+  * ![](/images/IMG_2247.jpg)
+
 
 Iris Coffee Lab 
 =====
