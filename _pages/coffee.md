@@ -85,7 +85,7 @@ Mylo's Coffee
   * Seating isn't readily available but comes with a great view. Might be the coziest place I've ever been to. 
   * Drink was sweet and light, making the most of the raspberry syrup without having it take over.
   * 8/10
-  * ![](/images/IMG_2247.jpg)
+  * ![](/images/IMG_2397.jpg)
 
 
 Iris Coffee Lab 
