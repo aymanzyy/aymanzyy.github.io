@@ -22,7 +22,7 @@ feature_row:
     url: "https://hex.coffee"
     btn_label: "Check It out"
     btn_class: "btn--primary"
-  - image_path: /images/IMG_2833.jpg
+  - image_path: /images/IMG_2217.jpg
     alt: "Fount Coffee & Kitchen"
     title: "Fount Coffee & Kitchen"
     excerpt: "Located in Morrisville, Fount offers exceptional coffee with an a modern, cozy design"
