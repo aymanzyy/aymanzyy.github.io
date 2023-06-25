@@ -8,21 +8,21 @@ header:
   overlay_image: assets/images/blake-th.jpg
 
 feature_row:
-  - image_path: /images/IMG_2396.jpg
-    alt: "Mylo's Coffee"
-    title: "Mylo's Coffee"
-    excerpt: "Quiet and cozy location, great interior, experimental coffee."
-    url: "https://www.mylocoffee.com"
+  - image_path: /images/IMG_2833.jpg
+    alt: "Starbucks Roastery"
+    title: "Starbucks Roastery"
+    excerpt: "Biggest Starbucks in the world, worth the hype."
+    url: "https://www.starbucksreserve.com/en-us"
     btn_label: "Check It out"
     btn_class: "btn--primary"
-  - image_path: /images/IMG_2247.jpg
-    alt: "Iris Coffee Lab"
-    title: "Iris Coffee Lab"
-    excerpt: "Funky interior, amazing staff, and great coffee."
-    url: "https://www.iriscoffeelab.com"
+  - image_path: /images/IMG_2436.jpg
+    alt: "Hex Coffee"
+    title: "Hex Coffee"
+    excerpt: "Small but mighty coffee shop, hidden gem of CLT."
+    url: "https://hex.coffee"
     btn_label: "Check It out"
     btn_class: "btn--primary"
-  - image_path: /images/IMG_2215.jpg
+  - image_path: /images/IMG_2833.jpg
     alt: "Fount Coffee & Kitchen"
     title: "Fount Coffee & Kitchen"
     excerpt: "Located in Morrisville, Fount offers exceptional coffee with an a modern, cozy design"
@@ -84,7 +84,7 @@ Starbucks Roastery (9/10)
   * Staff is very busy so not much interaction.
   * Seating is basically nonexistent due to the popularity of the place. If you can find it, the views are great 
   * Both drinks were exceptional, albeit fairly costly considering the size. The cannoli was quite possibly the best dessert I've had in the last 5 years
-  * ![]()
+  * ![](/images/IMG_2833.jpg)
 
 Foxtrot (7/10)
 =====
@@ -94,7 +94,7 @@ Foxtrot (7/10)
   * Seating was easily available and gave off a more casual vibe
   * Both the drink and taco were standard, nothing to write home about 
   * 
-  * ![]()
+  * ![](/images/IMG_2896.jpg)
   
 La Colombe (8/10)
 =====
@@ -104,7 +104,7 @@ La Colombe (8/10)
   * One of the most unique shops I've been to, as the total square footage of the spot is less than some living rooms I've been in
   * Seating was difficult and there isn't much standing room. 
   * The drink was pretty nice, an upgrade over the nitro cold brews that Starbucks offer
-  * ![]()
+  * ![](/images/IMG_2868.jpg)
     
 Hex Coffee (10/10)
 =====
@@ -113,7 +113,7 @@ Hex Coffee (10/10)
   * Staff were fantastic, running me through their menu and the backstory behind the funky looking shop
   * Seating wasn't available as the shop is fairly small. 
   * This was the best iced coffee I'd ever had. The latte was made with fruity pebbles infused milk and a side of fruity pebbles was given to me on the side to add the coffee as I drank. Innovative and worth the drive to Charlotte. 
-  * ![]()
+  * ![](/images/IMG_2436.jpg)
  
 Cocoa Cinnamon (7/10)
 =====
@@ -122,14 +122,14 @@ Cocoa Cinnamon (7/10)
   * Staff were standard
   * Seating easy to lockdown due to the obscure location of the shop
   * Nothing much to say here, fairly standard mocha
-  * ![]()
+  * ![](/images/IMG_2614.jpg)
 
 Jetplane Coffee (6/10)
 =====
 * Located in Durham, North Carolina
   * What I ordered: Iced Mocha
   * Ehh
-  * ![]()
+  * ![](/images/IMG_2431.jpg)
 
 Mylo's Coffee (8/10)
 =====
