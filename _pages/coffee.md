@@ -8,7 +8,7 @@ header:
   overlay_image: assets/images/blake-th.jpg
 
 feature_row:
-  - image_path: /images/IMG_2833.jpg
+  - image_path: /images/IMG_2883.jpg
     alt: "Starbucks Roastery"
     title: "Starbucks Roastery"
     excerpt: "Biggest Starbucks in the world, worth the hype."
@@ -84,7 +84,7 @@ Starbucks Roastery (9/10)
   * Staff is very busy so not much interaction.
   * Seating is basically nonexistent due to the popularity of the place. If you can find it, the views are great 
   * Both drinks were exceptional, albeit fairly costly considering the size. The cannoli was quite possibly the best dessert I've had in the last 5 years
-  * ![](/images/IMG_2833.jpg)
+  * ![](/images/IMG_2883.jpg)
 
 Foxtrot (7/10)
 =====
@@ -94,7 +94,7 @@ Foxtrot (7/10)
   * Seating was easily available and gave off a more casual vibe
   * Both the drink and taco were standard, nothing to write home about 
   * 
-  * ![](/images/IMG_2896.jpg)
+  * ![](/images/IMG_2869.jpg)
   
 La Colombe (8/10)
 =====
