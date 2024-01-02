@@ -8,7 +8,7 @@ header:
   overlay_image: assets/images/blake-th.jpg
 
 feature_row:
-  - image_path: /images/IMG_2883.jpg
+  - image_path: /images/osmo.jpeg
     alt: "Osmo x Marusan"
     title: "Osmo x Marusan"
     excerpt: "Tucked away, gem of a spot."
