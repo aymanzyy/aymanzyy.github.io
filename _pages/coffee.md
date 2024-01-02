@@ -9,24 +9,24 @@ header:
 
 feature_row:
   - image_path: /images/IMG_2883.jpg
-    alt: "Starbucks Roastery"
-    title: "Starbucks Roastery"
-    excerpt: "Biggest Starbucks in the world, worth the hype."
-    url: "https://www.starbucksreserve.com/en-us"
+    alt: "Osmo x Marusan"
+    title: "Osmo x Marusan"
+    excerpt: "Tucked away, gem of a spot."
+    url: "https://www.marusan.ca/"
     btn_label: "Check It out"
     btn_class: "btn--primary"
-  - image_path: /images/IMG_2436.jpg
-    alt: "Hex Coffee"
-    title: "Hex Coffee"
-    excerpt: "Small but mighty coffee shop, hidden gem of CLT."
-    url: "https://hex.coffee"
+  - image_path: /images/osmo.jpeg
+    alt: "Lune"
+    title: "Lune"
+    excerpt: "Fantastic pasteries and brew."
+    url: "https://www.lunecroissanterie.com/"
     btn_label: "Check It out"
     btn_class: "btn--primary"
-  - image_path: /images/IMG_2217.jpg
-    alt: "Fount Coffee & Kitchen"
-    title: "Fount Coffee & Kitchen"
-    excerpt: "Located in Morrisville, Fount offers exceptional coffee with an a modern, cozy design"
-    url: "https://fountcoffee.com"
+  - image_path: /images/lune.jpeg
+    alt: "Industry Beans"
+    title: "Industry Beans"
+    excerpt: "Melbourne's best vibes hands down"
+    url: "https://industrybeans.com/pages/fitzroy-cafe-and-roastery"
     btn_label: "Check It Out"
     btn_class: "btn--primary"
 
