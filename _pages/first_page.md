@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![](/images/IMG_1785.jpeg)
+![](/images/me_pointing.JPG)
 
 Welcome! My name is Ayman and I am currently a PhD student at Duke University. I work in the Randles Lab, a Biomedical Engineering lab focusd on utilizing computational fluid dynamics to advance human health. I earned a Bachelor's of Science in Biomedical Engineering at [Univeristy *of* Arkansas *at* Fayetteville](https://www.uark.edu).
 
