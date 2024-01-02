@@ -18,7 +18,7 @@ Teaching Assistant
 
 Teaching Assistant
 =====
-* Instructor:Mostafa Elsaadany
+* Instructor: Mostafa Elsaadany
 * Class: Biomechanics
 * Location: University of Arkansas, Biomedical Engineering
 * Date: Fall 2019 - Spring 2020
