@@ -15,14 +15,14 @@ feature_row:
     url: "https://www.marusan.ca/"
     btn_label: "Check It out"
     btn_class: "btn--primary"
-  - image_path: /images/osmo.jpeg
+  - image_path: /images/lune.jpeg
     alt: "Lune"
     title: "Lune"
     excerpt: "Fantastic pasteries and brew."
     url: "https://www.lunecroissanterie.com/"
     btn_label: "Check It out"
     btn_class: "btn--primary"
-  - image_path: /images/lune.jpeg
+  - image_path: /images/industry_beans.jpeg
     alt: "Industry Beans"
     title: "Industry Beans"
     excerpt: "Melbourne's best vibes hands down"
