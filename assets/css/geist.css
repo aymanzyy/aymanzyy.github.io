@@ -1,0 +1,15 @@
+/*
+ *  Academicons 1.8.0 by James Walsh - https://github.com/jpswalsh
+ *  Fonts generated using the IcoMoon app - http://icomoon.io/app
+ *  Square icons designed to be used alongside Font Awesome square icons - https://fortawesome.github.io/Font-Awesome/
+ *  Licenses - Font: SIL OFL 1.1, CSS: MIT License
+ */
+@font-face {
+    font-family: 'Geist';
+    src:url('../fonts/Geist-1.3.0/statics-otf/Geist-Regular.otf');
+    src:url('../fonts/Geist-1.3.0/statics-otf/Geist-Regular.otf') format('embedded-opentype'),
+        url('../fonts/Geist-1.3.0/statics-ttf/Geist-Regular.ttf') format('truetype'),
+        url('../fonts/Geist-1.3.0/statics-woff/Geist-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
