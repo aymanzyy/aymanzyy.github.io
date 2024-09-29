@@ -30,9 +30,9 @@ $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
-$global-font-family         : $geistmono;
-$header-font-family         : $geistmono;
-$caption-font-family        : $geistmono;
+$global-font-family         : $sans-serif;
+$header-font-family         : $sans-serif;
+$caption-font-family        : $sans-serif;
 
 
 /* type scale */
@@ -57,7 +57,7 @@ $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
 $body-color                 : #B5B5B5; //Is this where I change page color? 
-$background-color           : #fff;
+$background-color           : #B5B5B5;
 $code-background-color      : #fafafa;
 $code-background-color-dark : $light-gray;
 $text-color                 : $dark-gray;
