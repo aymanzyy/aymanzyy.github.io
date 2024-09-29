@@ -1,11 +1,10 @@
 # main links links
 main:
+  - title: "CV"
+    url: /cv/
 
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "CV"
-    url: /cv/
 
   - title: "Coffee"
     url: https://aymanzyy.github.io/coffee/

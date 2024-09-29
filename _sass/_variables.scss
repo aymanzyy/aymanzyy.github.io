@@ -33,7 +33,7 @@ $garamond                   : Garamond, serif;
 $global-font-family         : "Tiny5";
 $header-font-family         : "Tiny5";
 $caption-font-family        : "Tiny5";
-
+$masthead-font-family       : "Manrope"
 
 /* type scale */
 $type-size-1                : 2.441em;  // ~39.056px
@@ -56,8 +56,8 @@ $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
-$body-color                 : #B5B5B5; //Is this where I change page color? 
-$background-color           : #B5B5B5; // This is what actually changes the webpage color
+$body-color                 : #E2E6ED; //Is this where I change page color? 
+$background-color           : #E2E6ED; // This is what actually changes the webpage color
 $code-background-color      : #fafafa;
 $code-background-color-dark : $light-gray;
 $text-color                 : $dark-gray;
