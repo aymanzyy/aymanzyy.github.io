@@ -1,3 +1,12 @@
+<html>
+
+    {% include alt_head.html %}
+	
+	{% include nav_list nav="foo" %}
+
+    <body>
+
+
 <div class="gallery"></div>
 <link rel="stylesheet" href="{{ '/assets/css/test_photo_gallery.css' | relative_url }}">
 <ul>
@@ -51,3 +60,11 @@
 	</li>
 </ul>
 </div>
+
+{{ content }}
+
+{% include footer.html %}
+
+</body>
+
+</html>
