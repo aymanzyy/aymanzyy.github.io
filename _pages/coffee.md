@@ -22,7 +22,7 @@ feature_row:
     url: "https://www.lunecroissanterie.com/"
     btn_label: "Check It out"
     btn_class: "btn--primary"
-  - image_path: /images/industry_beans.jpeg
+  - image_path: /images/industrybeans.jpeg
     alt: "Industry Beans"
     title: "Industry Beans"
     excerpt: "Melbourne's best vibes hands down"
