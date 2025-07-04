@@ -15,14 +15,6 @@ layout: default
 <div id="main" role="main">
   {% include sidebar.html %}
 
-  <div class="archive">
-    {% unless page.header.overlay_color or page.header.overlay_image %}
-      <h1 class="page__title">{{ page.title }}</h1>
-    {% endunless %}
-    {{ content }}
-  </div>
-</div>
-
 <div class="gallery"></div>
 <link rel="stylesheet" href="{{ '/assets/css/test_photo_gallery.css' | relative_url }}">
 <ul>
@@ -75,4 +67,11 @@ layout: default
 		</a>
 	</li>
 </ul>
+</div>
+  <div class="archive">
+    {% unless page.header.overlay_color or page.header.overlay_image %}
+      <h1 class="page__title">{{ page.title }}</h1>
+    {% endunless %}
+    {{ content }}
+  </div>
 </div>
