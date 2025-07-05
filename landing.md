@@ -1,10 +1,9 @@
 ---
 author_profile: true
 permalink: /landing/
-title: "Pictures"
+title: "Life Through Film"
 layout: test_photo_gallery
 description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
-image: images/landing.jpg
 nav-menu: true
 ---
 ![](/images/IMG_2355.jpg)
