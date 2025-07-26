@@ -22,6 +22,9 @@
 
       img {
         box-shadow: 0 0 10px rgba(#000, 0.25);
+        opacity: 1;
+        transform: translate3d(0, 0, 90);
+        transition: opacity 600ms 400ms, transform 600ms 400ms;
       }
     }
   }
