@@ -7,6 +7,8 @@ description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. temp
 nav-menu: true
 ---
 
+<link rel="stylesheet" href="{{ '/assets/css/test_photo_gallery.css' | relative_url }}">
+
 <ul>
 	<li>
 		<a href="">
