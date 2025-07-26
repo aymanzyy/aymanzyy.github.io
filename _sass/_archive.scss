@@ -176,6 +176,11 @@
     }
   }
 
+  &:hover {
+    opacity: 1;
+    transform: translate3d(0, 0, 0);
+		transition: opacity 600ms 400ms, transform 600ms 400ms;
+  }
   &--left {
     @include full();
     font-size: 1.25rem;
