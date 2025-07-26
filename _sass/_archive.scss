@@ -178,7 +178,7 @@
 
   &:hover {
     opacity: 1;
-    transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 90);
 		transition: opacity 600ms 400ms, transform 600ms 400ms;
   }
   &--left {
