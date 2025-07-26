@@ -6,10 +6,8 @@ layout: another_test_photo_gallery
 description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
 nav-menu: true
 ---
-  <div class="gallery"></div>
 
-	<link rel="stylesheet" href="{{ '/assets/css/test_photo_gallery.css' | relative_url }}">
-	<ul>
+<ul>
 	<li>
 		<a href="">
 			<figure>
