@@ -66,6 +66,16 @@
   }
 }
 
+.archive__item-excerpt-copy {
+  margin-top: 0;
+  font-size: $type-size-6;
+  opacity: 0;
+  display: flex;
+  & + p {
+    text-indent: 0;
+  }
+}-excerpt
+
 .archive__item-teaser {
   border-radius: $border-radius;
   overflow: hidden;
@@ -77,11 +87,16 @@
 .archive__item:hover {
   .archive__item-teaser {
     box-shadow: 0 0 10px rgba(#368BC1, 1.0);
-    transform: rotateY(180deg);
+    transform: rotateY(180deg);  /*this shit does work, website is slow to update*/
   }
 
   .archive__item-title {
     text-decoration: underline;
+  }
+  .archive__item-excerpt{
+    opacity: 1;
+		transform: translate3d(0, 0, 0);
+		transition: opacity 600ms 400ms, transform 600ms 400ms;
   }
 }
 

@@ -28,6 +28,9 @@
             <div class="archive__item-excerpt">
               {{ f.excerpt | markdownify }}
             </div>
+            <div class="archive__item-excerpt-copy">
+              {{ f.excerpt | markdownify }}
+            </div>
           {% endif %}
 
           {% if f.url %}

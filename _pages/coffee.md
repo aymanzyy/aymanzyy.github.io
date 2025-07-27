@@ -7,7 +7,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: assets/images/blake-th.jpg
 
-feature_row:
+feature_row: ## believe this is defined within a liquid script that is imported
   - image_path: /images/osmo.jpeg
     alt: "Osmo x Marusan"
     title: "Osmo x Marusan"
